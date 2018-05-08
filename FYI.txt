@@ -1,0 +1,1 @@
+This is repository is to practice a hands-on project. Here, we will be using html, css and javascript for designing the web pages and then push them to the remote git-server for storing them.
